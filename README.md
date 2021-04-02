@@ -6,7 +6,7 @@
 
 <br>LEARN
 CODE
-REPEAT </h3>
+REPEAT </h3><br>
 
 - 🔭 I’m currently working on **JavaScript, Java, Data Structure**
 
