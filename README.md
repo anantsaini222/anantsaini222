@@ -2,10 +2,9 @@
   
    <img align="right" alt="GIF" src="https://github.com/anantsaini222/anantsaini222/blob/main/developer.gif" width="550" height="410" />
 <p align="left">I am inquisitive, energetic computer science student skilled in leadership, with a strong foundation in maths and logic. I am passionate toward learning and always working to enhance my skills.My education is based on both offline and online learning mode. I am extremely curious and apply synthesis and design thinking to theoretical and practical projects.</p>
-
-<br><h3>LEARN
-CODE
-REPEAT</h3>
+<h3>LEARN<br>
+CODE<br>
+REPEAT</h3><br>
 
 - 🔭 I’m currently working on **JavaScript, Java, Data Structure**
 
