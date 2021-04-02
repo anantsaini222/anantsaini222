@@ -4,7 +4,7 @@
 <p align="left">I am inquisitive, energetic computer science student skilled in leadership, with a strong foundation in maths and logic. I am passionate toward learning and always working to enhance my skills.My education is based on both offline and online learning mode. I am extremely curious and apply synthesis and design thinking to theoretical and practical projects.</p>
 <h3>LEARN<br>
 CODE<br>
-REPEAT</h3>
+REPEAT</h3><br>
 
 - 🔭 I’m currently working on **JavaScript, Java, Data Structure**
 
