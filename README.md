@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Anant <>.</h1>
-   <p  align="center">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&color=03989EFF&width=900&lines=Passionate+Full-stack+Developer;University+Graduate+Electrical+Engineer;Self-taught+Graphics+Designer"  width="100%"  height="35px"></a>
-</p>
+ 
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
 
    <img align="right" alt="GIF" src="https://github.com/anantsaini222/anantsaini222/blob/main/developer.gif" width="550" height="410" />
 <p align="left">I am inquisitive, energetic computer science student skilled in leadership, with a strong foundation in maths and logic. I am passionate toward learning and always working to enhance my skills.My education is based on both offline and online learning mode. I am extremely curious and apply synthesis and design thinking to theoretical and practical projects.</p>
