@@ -6,7 +6,7 @@
 CODE<br>
 REPEAT</h3><br>
 
-- 🔭 I’m currently working on **JavaScript, Java, Data Structure**
+- 🔭 I’m currently working on **AWS, .Net, JavaScript, Java, Data Structure**
 
 - 🌱 I’m currently learning **AngularJs, Django, Java, Data Structure**
 
