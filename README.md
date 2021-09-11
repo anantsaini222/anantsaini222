@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Anant.</h1>
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="left">Hi 👋, I'm Anant <>.</h1>
 
    <img align="right" alt="GIF" src="https://github.com/anantsaini222/anantsaini222/blob/main/developer.gif" width="550" height="410" />
 <p align="left">I am inquisitive, energetic computer science student skilled in leadership, with a strong foundation in maths and logic. I am passionate toward learning and always working to enhance my skills.My education is based on both offline and online learning mode. I am extremely curious and apply synthesis and design thinking to theoretical and practical projects.</p>
@@ -16,6 +15,8 @@ REPEAT</h3><br>
 - 📫 How to reach me **anantsaini222@gmail.com**
 
 - ⚡ Fun fact **Solo trekker and a fitness freak**
+
+   <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
