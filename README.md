@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anant </>. </h1>
 <p  align="left">
-<img  src="https://readme-typing-svg.herokuapp.com/?size=35&center=false&color=06982db&width=900&lines=Passionate+Fullstack+Developer;University+Graduate+Software+Engineer;Self-taught+Graphics+Designer"  width="100%"  height="35px">
+<img  src="https://readme-typing-svg.herokuapp.com/?size=35&color=06982db&width=900&lines=Passionate+Fullstack+Developer;University+Graduate+Software+Engineer;Self-taught+Graphics+Designer"  width="100%"  height="35px">
 </p>
   
    <img align="right" alt="GIF" src="https://github.com/anantsaini222/anantsaini222/blob/main/developer.gif" width="550" height="410" />
