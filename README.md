@@ -4,7 +4,7 @@
 
    <img align="right" alt="GIF" src="https://github.com/anantsaini222/anantsaini222/blob/main/developer.gif" width="550" height="410" />
 <p align="left">
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Passionate+Full-stack+Developer;+Software+Engineer+Graduate;Open-Source+Developer;Designer+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)-*
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Passionate+Full-stack+Developer;+Software+Engineer+Graduate;Open-Source+Developer!;Nice+to+meet+you...)](https://git.io/typing-svg)
    
    I am inquisitive, energetic computer science student skilled in leadership, with a strong foundation in maths and logic. I am passionate toward learning and always working to enhance my skills.My education is based on both offline and online learning mode. I am extremely curious and apply synthesis and design thinking to theoretical and practical projects.</p>
 <h3>LEARN<br>
