@@ -1,6 +1,5 @@
-<h1 align="left">Hi 👋, I'm Anant </>.    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+<h1 align="left">Hi 👋, I'm Anant </>. </h1>   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Filipino+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
   
-  </h1>
    
 
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
