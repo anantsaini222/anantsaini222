@@ -11,7 +11,7 @@ REPEAT</h3><br>
 
 - 🔭 I’m currently working on **AWS, .Net, JavaScript, Java, Data Structure**
 
-- 🌱 I’m currently learning **AngularJs, Django, Java, Data Structure**
+- 🐱‍🏍 I’m currently learning **AWS, AngularJs, Java, Data Structure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anantsaini222?tab=repositories](https://github.com/anantsaini222?tab=repositories)
 
