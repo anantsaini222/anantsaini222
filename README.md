@@ -13,11 +13,12 @@ REPEAT</h3><br>
 
 - 🎯 I’m currently learning **AngularJs, Java, Data Structure**
 
-- 🔥 All of my projects are available at [https://github.com/anantsaini222?tab=repositories](https://github.com/anantsaini222?tab=repositories)
-
 - 💪 How to reach me **anantsaini222@gmail.com**
 
 - ⚡ Fun fact **Solo trekker and a fitness freak**
+
+- 🔥 All of my projects are available at [https://github.com/anantsaini222?tab=repositories](https://github.com/anantsaini222?tab=repositories)
+
 
    <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
